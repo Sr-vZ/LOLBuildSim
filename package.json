@@ -1,0 +1,22 @@
+{
+  "name": "lolbuildsim",
+  "version": "1.0.0",
+  "description": "a item and damage simulator for League of Legends",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sr-vZ/LOLBuildSim.git"
+  },
+  "author": "Sourav De",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sr-vZ/LOLBuildSim/issues"
+  },
+  "homepage": "https://github.com/Sr-vZ/LOLBuildSim#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
