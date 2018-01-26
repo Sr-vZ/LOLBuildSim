@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "a item and damage simulator for League of Legends",
   "main": "app.js",
+  "quokka": {
+    "plugins": [
+      "jsdom-quokka-plugin"
+    ]
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
